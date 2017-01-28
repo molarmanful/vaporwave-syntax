@@ -2,4 +2,4 @@
 
 A weird syntax theme based on vaporwave designs.
 
-![Vaporwave](vaporwave-syntax.png)
+![Vaporwave](http://i.imgur.com/y07hY1s.png)
